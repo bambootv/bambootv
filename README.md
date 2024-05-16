@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My job is Node JS Developer 🚀, I come from VietNam.**
+**My job is Fullstack web developer 🚀, I come from VietNam.**
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 **Tools:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>...
